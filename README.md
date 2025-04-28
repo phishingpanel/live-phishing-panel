@@ -36,4 +36,4 @@
 
 ## 💌 Contact & Purchasing
 
-<code>tg - @phishingpaneldev</code>
+<code>tg - @orangexss</code>
