@@ -31,8 +31,8 @@
 
 ## 🔥 Panel Screenshots (video available in Telegram, @phishingpaneldev)
 
-![LivePanelPhoto](https://i.ibb.co/hxZX3mL6/1.jpg)
-![LivePanelPhoto](https://i.ibb.co/S7VRg29T/2.jpg)
+![LivePanelPhoto](https://i.ibb.co/nN1g8zMM/1-1.jpg) 
+![LivePanelPhoto](https://i.ibb.co/Qvy3ydM6/1-2.jpg)
 
 ## 💌 Contact & Purchasing
 
