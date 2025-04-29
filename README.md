@@ -29,7 +29,7 @@
 -   OTP form support (SMS/Push/Email)
 -   Live Panel integration
 
-## 🔥 Panel Screenshots (video available in Telegram, @phishingpaneldev)
+## 🔥 Panel Screenshots (video available in Telegram, @orangexss)
 
 ![LivePanelPhoto](https://i.ibb.co/nN1g8zMM/1-1.jpg) 
 ![LivePanelPhoto](https://i.ibb.co/Qvy3ydM6/1-2.jpg)
